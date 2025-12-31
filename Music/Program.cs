@@ -1,0 +1,15 @@
+﻿Song song1 = new Song();
+song1.Title = "Feel Good Inc.";
+song1.Band = "Gorillaz";
+song1.Duration = 222;
+song1.PlayCount = 100;
+song1.Favorite = true;
+Console.WriteLine(song1.DisplayName);
+song1.DisplayDetails();
+Song song2 = new Song();
+song2.Title = "Song 2";
+song2.Band = "Blur";
+song2.Duration = 122;
+song2.PlayCount = 2;
+song2.Favorite = false;
+song2.DisplayDetails();

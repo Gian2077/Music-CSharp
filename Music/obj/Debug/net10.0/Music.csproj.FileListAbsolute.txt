@@ -1,0 +1,14 @@
+C:\Users\gianr\source\repos\Music\Music\bin\Debug\net10.0\Music.exe
+C:\Users\gianr\source\repos\Music\Music\bin\Debug\net10.0\Music.deps.json
+C:\Users\gianr\source\repos\Music\Music\bin\Debug\net10.0\Music.runtimeconfig.json
+C:\Users\gianr\source\repos\Music\Music\bin\Debug\net10.0\Music.dll
+C:\Users\gianr\source\repos\Music\Music\bin\Debug\net10.0\Music.pdb
+C:\Users\gianr\source\repos\Music\Music\obj\Debug\net10.0\Music.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gianr\source\repos\Music\Music\obj\Debug\net10.0\Music.AssemblyInfoInputs.cache
+C:\Users\gianr\source\repos\Music\Music\obj\Debug\net10.0\Music.AssemblyInfo.cs
+C:\Users\gianr\source\repos\Music\Music\obj\Debug\net10.0\Music.csproj.CoreCompileInputs.cache
+C:\Users\gianr\source\repos\Music\Music\obj\Debug\net10.0\Music.dll
+C:\Users\gianr\source\repos\Music\Music\obj\Debug\net10.0\refint\Music.dll
+C:\Users\gianr\source\repos\Music\Music\obj\Debug\net10.0\Music.pdb
+C:\Users\gianr\source\repos\Music\Music\obj\Debug\net10.0\Music.genruntimeconfig.cache
+C:\Users\gianr\source\repos\Music\Music\obj\Debug\net10.0\ref\Music.dll
